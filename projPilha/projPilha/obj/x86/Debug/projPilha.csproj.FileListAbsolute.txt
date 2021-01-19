@@ -1,0 +1,4 @@
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projPilha\projPilha\bin\Debug\projPilha.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projPilha\projPilha\bin\Debug\projPilha.pdb
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projPilha\projPilha\obj\x86\Debug\projPilha.exe
+D:\Users\marco.marques\OneDrive\Documentos\Visual Studio 2010\Projects\ADS471_2020s2\projPilha\projPilha\obj\x86\Debug\projPilha.pdb
